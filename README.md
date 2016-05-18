@@ -3,7 +3,7 @@ Modified Usage
 
 Modified and added URL-Option for custom files
 
-```index.php?file=loremIpsum.txt```
+`index.php?file=loremIpsum.txt`
 
 
 Original License
