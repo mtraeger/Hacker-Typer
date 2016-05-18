@@ -1,4 +1,13 @@
-h2. License 
+Modified Usage
+--------------
+
+Modified and added URL-Option for custom files
+
+```index.php?file=loremIpsum.txt```
+
+
+Original License
+---------------- 
 
 (c) Copyright 2011 Simone Masiero. Some Rights Reserved. 
 
@@ -7,3 +16,6 @@ h2. License
 </a>
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</a>.
+
+
+

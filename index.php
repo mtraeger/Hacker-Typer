@@ -16,7 +16,7 @@
 
 		<link href="style.css" rel="stylesheet" type="text/css" /> 
 
-		<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js' type='text/javascript'></script> 
+		<script src='jquery.min.js' type='text/javascript'></script> 
 
 		<script src='script.js' type='text/javascript'></script> 
 
@@ -24,8 +24,7 @@
 
 			Typer.speed=3;
 
-			Typer.file='kernel.txt';
-
+			Typer.file='<?php if(isset($_GET['file'])){echo $_GET['file'];}else{echo 'kernel.txt';}?>';
 			Typer.init();
 
 		</script>
