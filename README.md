@@ -1,3 +1,12 @@
+Usage
+-----
+
+* Press any key to show next chars.
+* Press alt-key to show access granted popup
+* Press caps-lock key to show access denied popup
+* Press escape to hide popups
+
+
 Modified Usage
 --------------
 
